@@ -1,0 +1,65 @@
+body {
+    margin:10px;    
+    background-color: lightslategrey;
+    
+}
+
+* {
+    margin: 0;
+    border: 0;
+    
+}
+
+.cool-class {
+    background-color:papayawhip;
+}
+
+.first {
+    text-align: left;
+}
+
+.second {
+    text-align: center;
+}
+
+.fifth {
+    text-align: right;
+}
+
+.cool-table {
+    background-color: pink;
+    font-size: 32px;
+    margin: 30px auto 30px auto;
+    padding: 20px;
+    font-weight: bold;
+    line-height: 1.8;
+    max-width: 500px;
+}
+.cool-table>ol {
+    
+    max-width: 300px;
+    margin: auto;
+}
+
+.button {
+    padding: 30px;
+    border: 1px solid black;
+    margin: auto;
+    max-width: 200px;
+    background-color: white;
+    text-align: center;
+    color:black;
+}
+
+.button:hover {
+    padding: 30px;
+    border: 1px solid black;
+    margin: auto;
+    max-width: 200px;
+    background-color: white;
+    text-align: center;
+    color:blueviolet;
+}
+
+
+
